@@ -2,7 +2,7 @@
     max-width: 1600px;
     margin: 0 auto;
 }
-#nav a {
+nav a {
     text-align: center;
     color:#B82840 ;
     text-decoration: none;
@@ -13,30 +13,30 @@
 .button-box{
     text-align: center;
     }
-#main section{
+main section{
     text-align: center;
     }
 #background{
     height: 725px;
 }
-#body{
+body{
     background-color: #A69AFE
 }
-#header{
+header{
     background-color: #A69AFE;
 }
-#nav a:hover{
+nav a:hover{
     background-color: #CD9FCC;
     color:#B82840 ;
 }
-#footer{
+footer{
     color:#B82840 ;
 }
-#footer a{
+footer a{
     color:#B82840 ;
     text-decoration: none;
 }
-#footer a:hover{
+footer a:hover{
     color:#B82840 ;
 }
 .msg h2{
@@ -48,7 +48,7 @@
 .home-title{
     color:#B82840 ;
 }
-#h4{
+h4{
     color:#B82840 ;
 }
 .book, .join{
@@ -64,9 +64,9 @@
 .hero{
     width: 100%;
 }
-#footer p{
+footer p{
     font-size: 1.2em;
 }
-#footer p a:hover{
+footer p a:hover{
     text-decoration: underline;
 }
